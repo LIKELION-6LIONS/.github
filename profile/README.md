@@ -17,7 +17,7 @@
 |🐒현호🐒|[@HHCHO0220](https://github.com/HHCHO0220)|[🐒hyunho_repository](https://github.com/LIKELION-6LIONS/hyunho_repository)|
 |🧸소민🧸|[@chasomin](https://github.com/chasomin)|[🧸chapter22_somin](https://github.com/LIKELION-6LIONS/chapter22_somin)|
 |🌲혜민🌲|[@soletree](https://github.com/soletree)|[🌲sol_repository](https://github.com/LIKELION-6LIONS/sol_repository)|
-|🍪예리🍪|[@dpfl420](https://github.com/dpfl420)|[🍪yeri_repository](https://github.com/LIKELION-6LIONS/yeri_Repository)|
+|🫧예리🫧|[@dpfl420](https://github.com/dpfl420)|[🫧yeri_repository](https://github.com/LIKELION-6LIONS/yeri_Repository)|
 
 
 

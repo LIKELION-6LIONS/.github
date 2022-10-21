@@ -3,6 +3,9 @@
 ### 팀 노션
 - https://thekoon0456.notion.site/thekoon0456/6-4cea9c2698bc42ddb10c1d52e46e98b1
 
+### 팀 레포
+- https://github.com/LIKELION-6LIONS/team_repository
+
 ### 회고 일시
 - 매주 목요일 22시 
 

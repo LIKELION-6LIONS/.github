@@ -1,10 +1,13 @@
 ## 멋쟁이사자처럼 앱스쿨 1기 회고 6조입니다.👋
 
 ### 팀 노션
+- https://thekoon0456.notion.site/thekoon0456/6-4cea9c2698bc42ddb10c1d52e46e98b1
 
+### 회고 일시
+- 매주 목요일 22시 
 
 ### 구성원 
-|이름|깃허브|레포지토리|
+|이름|Github|Repository|
 |:---:|:---:|:---:|
 |🐱덕훈🐱|[@thekoon0456](https://github.com/thekoon0456)|[🐱thekoon-repository](https://github.com/LIKELION-6LIONS/thekoon-repository)|
 |🤥태영🤥|[@wontaeyoung](https://github.com/wontaeyoung)|[🤥kaz_repository](https://github.com/LIKELION-6LIONS/kaz_repository)|
@@ -19,14 +22,8 @@
 
 
 
-
-
-
-
 <!--
-
 **Here are some ideas to get you started:**
-🚢
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?

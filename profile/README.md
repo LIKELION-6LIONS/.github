@@ -9,6 +9,11 @@
 ### 회고 일시
 - 매주 목요일 22시 
 
+---
+
+### Commit Convention
+- https://overcome-the-limits.tistory.com/6
+
 ### 구성원 
 |이름|Github|Repository|
 |:---:|:---:|:---:|

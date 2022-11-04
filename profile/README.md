@@ -27,7 +27,7 @@
 |🧸소민🧸|[@chasomin](https://github.com/chasomin)|[🧸Repository_somin](https://github.com/LIKELION-6LIONS/Repository_somin)|
 |🌲혜민🌲|[@soletree](https://github.com/soletree)|[🌲sol_repository](https://github.com/LIKELION-6LIONS/sol_repository)|
 |🫧예리🫧|[@dpfl420](https://github.com/dpfl420)|[🫧yeri_repository](https://github.com/LIKELION-6LIONS/yeri_Repository)|
-
+|🫧예은🫧|[@lianne-b](https://github.com/lianne-b)|[🫧yeeun_repository](https://github.com/LIKELION-6LIONS/)|
 
 
 
